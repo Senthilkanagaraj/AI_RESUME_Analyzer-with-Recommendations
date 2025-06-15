@@ -96,7 +96,7 @@ streamlit run app.py
 
 ## 🧑‍💻 Author
 
-- **Hariharan S** – [LinkedIn](https://linkedin.com/in/hariharan-subburaj)
+- **SENTHIL K** – [LinkedIn](https://linkedin.com/in/hariharan-subburaj)
 - Guided by **Dr. Ranjith**
 - Government colleng of engineering srirangam.
 
